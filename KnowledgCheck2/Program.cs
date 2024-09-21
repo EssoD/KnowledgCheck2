@@ -60,7 +60,7 @@
 
             public override string ToString()
             {
-               return base.ToString() + $"Purse: {Purse}";
+                return base.ToString() + $"Purse: {Purse}";
             }
         }
     }
